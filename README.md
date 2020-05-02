@@ -9,5 +9,5 @@ Semantic Web Mining Group Project: Directional Stock Prediction using Viral Twee
 * Run the **news_join.ipynb** notebook for further processing.
 
 #### Evaluation Instructions
-* Download the processed arrays into the data folder from this [Link](https://github.com/baani-khurana/SWM-stock-prediction).
+* Download the processed Input arrays into the data folder from this [Link](https://github.com/baani-khurana/SWM-stock-prediction).
 * Go through and run notebooks to view results.
