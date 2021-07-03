@@ -1,6 +1,8 @@
 # SWM-stock-prediction
 Semantic Web Mining Group Project: Directional Stock Prediction using Viral Tweets &amp; News
 
+This project focuses on creating various machine learning models to predict whether AAPL and AMZN stocks will rise or fall in a given timeframe based on the data present in viral tweets and news. Built using: Python.",
+
 
 #### Dataset setup instructions
 * `mkdir Data`
